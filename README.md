@@ -21,6 +21,7 @@ This project demonstrates how to build a **tool-augmented AI agent** using **MCP
 ```text
 User: what's (3 + 4) * 12?
 User: what's the weather in dwarka sec-3 today?
+```
 <img width="1387" height="142" alt="image" src="https://github.com/user-attachments/assets/b155454f-e997-42dc-9d7c-027416bc2957" />
 
 ```
